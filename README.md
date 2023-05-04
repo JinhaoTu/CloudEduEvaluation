@@ -1,5 +1,7 @@
-# Nothing-Special
-Nah~ Nah~ Nah~ 
+# A Cloud Education Evaluation Scheme Based on Privacy Protection Combined  with Micro-expression and Face KeyPoint Detection
+
+This is a brand-new Cloud Education Evaluation Scheme based on some cool, new technology like AU-detection, Landmark-detection and some privacy-protection algorithm😉
+
 ## Abstract
 According to the observation of students' daily class habits and the investigation of existing online teaching platforms, it can be found that the existing solutions lack the evaluation of students' concentration in class. For this reason, some platforms have also launched the function of turning on the camera in real time, but their lack of attention to data encryption protection has also brought about major privacy issues, resulting in data leakage. This solution detects facial action units (FAU, facial action unit) by using neural network, obtains micro-expression classification (concentration, confusion, etc.) and detects 68 facial key points to judge facial actions (such as yawning, sleeping), etc. To comprehensively and real-time judge a student's learning situation and use algorithms such as block Fourier transform to obtain a noisy face image to protect the privacy of students. In the end, teachers and parents can obtain quantitative evaluation indicators of students in real time during online classes, so as to solve the challenge of evaluating students' concentration in class.
 
